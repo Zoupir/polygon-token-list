@@ -23666,6 +23666,21 @@
     },
     "logoURI": "https://wallet-asset.matic.network/img/tokens/btzc.svg"
   },
+    {
+    "chainId": 137,
+    "name": "Zippin",
+    "symbol": "ZPN",
+    "decimals": 18,
+    "address": "0x17FCc81cDE4B2Da29dC0bAE73E0dAeC8503e54BA",
+    "tags": [
+      "pos",
+      "erc20"
+    ],
+    "extensions": {
+      "rootAddress": "0x80640db285Cc63496bdd8c1980A7f4526A4D477F"
+    },
+    "logoURI": "https://zippin.online/wp-content/uploads/2022/03/FaveIcon32.png"
+  },
   {
     "chainId": 137,
     "name": "SHIP20T5",
